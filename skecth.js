@@ -15,6 +15,7 @@ groundImage=loadImage("images/ground.png");
 car1img=loadImage("images/car1png");  
 car2img=loadImage("images/car2.png");  
 trackimage=loadImage("images/track.png");  
+groundImage=loadImage("images/ground.png")
 
 }
 
